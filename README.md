@@ -7,7 +7,7 @@ They can also save their favourite recipes via local storage.
 
 The app is deployed and available to use via:
 
-https://arcane-hollows-91222.herokuapp.com/
+ [//]: # (https://arcane-hollows-91222.herokuapp.com/)
 
 Fokify is a project from Jonas Schmedtmann's 'The Complete JavaScript Course' on Udemy.
 
